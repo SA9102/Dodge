@@ -2,6 +2,8 @@
 
 A work-in-progress JavaScript game. Dodge enemies, collect boosters and earn points to upgrade your character and defeat the final boss.
 
+[Click here to play.](https://sa9102.github.io/Dodge/)
+
 ## Info
 
 I am not following a tutorial.
