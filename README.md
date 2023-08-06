@@ -2,6 +2,8 @@
 
 A work-in-progress JavaScript game. Dodge enemies, collect boosters and earn points to upgrade your character and defeat the final boss.
 
+Move with the WASD keys.
+
 [Click here to play.](https://sa9102.github.io/Dodge/)
 
 ## Info
